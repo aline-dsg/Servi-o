@@ -1,8 +1,1 @@
-
-NOVA BRANCH:
-
-Agora, neste momento, estou criando uma nova branch. OK? 
-Estou fazendo isso para que eu compreenda melhor esses
-conceitos 
-
-Acho que vai funcionar
+Vamos mergir:
