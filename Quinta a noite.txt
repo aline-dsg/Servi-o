@@ -1,1 +1,9 @@
 Estou fazendo um novo doc agora a noite só para teste, mesmo.
+
+NOVA BRANCH:
+
+Agora, neste momento, estou criando uma nova branch. OK? 
+Estou fazendo isso para que eu compreenda melhor esses
+conceitos 
+
+Acho que vai funcionar
